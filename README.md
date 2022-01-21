@@ -25,18 +25,19 @@ The following **additional** features are implemented:
 - [X] Added settings to change tip percent
 - [X] Added icon and launchscreen
 - [X] Added constraints for portrait and landscape modes
+- [X] Added dark mode toggle in settings
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-
+https://user-images.githubusercontent.com/85651695/150474803-8d57a4be-1fc3-44ce-9336-79ccc12380bd.mp4
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
-I struggled with getting the dark mode feature and I am still trying to implement it. It took me a while to understand how to use user defaults and it was challenging having to use swift for the first time and debug my errors. 
+I struggled with getting the dark mode feature and I am still trying to implement it currently. It took me a while to understand how to use user defaults and it was challenging having to use swift since its a new language to me so it took some time to debug some of my errors. 
 
 ## License
 
